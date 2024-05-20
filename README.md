@@ -9,4 +9,7 @@ TINTOlib is a state-of-the-art library that wraps the most important techniques 
 ### HyNN
 ### HyViT
 ### Dataset
+Synthetic images and results in the following folder:
+https://upm365-my.sharepoint.com/:f:/g/personal/jiayun_liu_upm_es/Eqhp7Jj3L3pLnK75Jx66nDQB3zBMp319Nqa4cCjrZmSSxw?e=yBxH2H
+
 ### Training Scripts
