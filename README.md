@@ -7,9 +7,9 @@ In the field of machine learning, the absence of spatial structure in tabular da
 TINTOlib is a state-of-the-art library that wraps the most important techniques for the construction of Synthetic Images from [Sorted Data](https://www.jstatsoft.org/article/view/v059i10) (also known as Tabular Data).
 
 ### HyNN
-![HyNN Architecture](https://github.com/DCY1117/HyNN-Synthetic-Images/blob/main/Images/HyNN_CNN%2BMLP.pdf)
+![HyNN Architecture](https://github.com/DCY1117/HyNN-Synthetic-Images/blob/main/Images/HyNN_CNN%2BMLP.png)
 ### HyViT
-![HyViT Architecture](https://github.com/DCY1117/HyNN-Synthetic-Images/blob/main/Images/HyNN_ViT%2BMLP.pdf)
+![HyViT Architecture](https://github.com/DCY1117/HyNN-Synthetic-Images/blob/main/Images/HyNN_ViT%2BMLP.png)
 ### Dataset
 Synthetic images and results in the following folder:
 https://upm365-my.sharepoint.com/:f:/g/personal/jiayun_liu_upm_es/Eqhp7Jj3L3pLnK75Jx66nDQB3zBMp319Nqa4cCjrZmSSxw?e=yBxH2H
